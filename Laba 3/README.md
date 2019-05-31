@@ -1,2 +1,2 @@
 To be updated
-![](https://raw.githubusercontent.com/NickolayGordeev/LABS/master/Laba%203/Screen.jpg)
+![](https://github.com/NickolayGordeev/LABS/blob/master/Laba%203/Screen.jpg)
